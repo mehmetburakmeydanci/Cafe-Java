@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cafe_Otomasyon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cafe_Otomasyon_jar</output-path>
+    <root id="archive" name="Cafe_Otomasyon.jar">
+      <element id="module-output" name="Cafe_Otomasyon" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mysql-connector-j-8.2.0/mysql-connector-j-8.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
